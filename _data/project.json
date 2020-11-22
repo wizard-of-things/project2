@@ -1,0 +1,12 @@
+{
+  "name": "Project2",
+  "description": "Project2",
+  "version": "1.0",
+
+  "power": "LiPo",
+  "wireless":"LoRa",
+  "sensor": "GPS, E-Ink",
+  "mcu": "SAMD21E",
+
+  "status": "ongoing"
+}
