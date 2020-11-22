@@ -10,7 +10,6 @@ url: https://wizard-of-things.github.io/project2
 # on gh-pages this is a / followed by the name of the repository
 baseurl: /project2
 
-project: test1
 markdown: kramdown
 permalink: /:title
 google_analytics: UA-

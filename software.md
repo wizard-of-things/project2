@@ -3,6 +3,7 @@ layout: default
 title: Software
 permalink: /software
 sequence: 3
+test: false
 features:
   - detail: Record and store the ON and OFF aircon commands with IR receiver
   - detail: Turn on or off the aircon with the IR emitter

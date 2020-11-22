@@ -1,19 +1,4 @@
----
-layout: default
-title: Getting Started
-permalink: /
-sequence: 1
-
-manufacturing: false
-downloads: false
-download_schematic: false
-download_layout: false
-download_kicad: false
-download_gerber: false
-download_bom: false
-
----
-<section class="section is-small">
+I"1	<section class="section is-small">
 <div class="container">
   <h2 class="title is-1">Getting Started</h2>
   <div class="tags has-addons">
@@ -28,18 +13,18 @@ download_bom: false
           <article class="tile is-child notification">
             <p class="title">Step 1</p>
             <p class="subtitle">The PCB has 2 battery holder connector holes that can be used to attach the battery holder.</p>
-            <a href="{{site.url}}/images/prototype/pcb-connector.jpg"><img src="{{site.url}}/images/prototype/pcb-connector.jpg" alt="PCB battery connector holes"></a>
+            <a href="http://localhost:4000/images/prototype/pcb-connector.jpg"><img src="http://localhost:4000/images/prototype/pcb-connector.jpg" alt="PCB battery connector holes" /></a>
             <p class="subtitle">Put in 3 AA batteries and turn on the switch. The power LED should turn on.</p>
-            <a href="{{site.url}}/images/prototype/battery.jpg"><img src="{{site.url}}/images/prototype/battery.jpg" alt="PCB with battery holder"></a>
+            <a href="http://localhost:4000/images/prototype/battery.jpg"><img src="http://localhost:4000/images/prototype/battery.jpg" alt="PCB with battery holder" /></a>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child notification">
             <p class="title">Step 2</p>
             <p class="subtitle">Flash the <a href="software#firmware">firmware</a> onto the Arduino Zero compatible board with a micro-USB cable.</p>
-            <a href="{{site.url}}/images/prototype/setup-page.png"><img src="{{site.url}}/images/prototype/setup-page.png" alt="Web USB setup page"></a>
+            <a href="http://localhost:4000/images/prototype/setup-page.png"><img src="http://localhost:4000/images/prototype/setup-page.png" alt="Web USB setup page" /></a>
             <p class="subtitle">Connect to the serial monitor to see the debug messages.</p>
-            <a href="{{site.url}}/images/prototype/serial.png"><img src="{{site.url}}/images/prototype/serial.png" alt="Serial console"></a>
+            <a href="http://localhost:4000/images/prototype/serial.png"><img src="http://localhost:4000/images/prototype/serial.png" alt="Serial console" /></a>
           </article>
         </div>
         <div class="tile is-parent">
@@ -56,3 +41,4 @@ download_bom: false
   </div>
 </div>
 </section>
+:ET
