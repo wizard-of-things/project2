@@ -13,8 +13,6 @@ download_bom: true
 software:
   - name: Firmware
     code: firmware
-  - name: WebUSB
-    code: webusb
 ---
 <section class="section is-small">
 <div class="container">
