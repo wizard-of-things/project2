@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software
-permalink: /software.html
+permalink: /software
 sequence: 3
 features:
   - detail: Record and store the ON and OFF aircon commands with IR receiver

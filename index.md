@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started
-permalink: /index.html
+permalink: /
 sequence: 1
 
 manufacturing: true

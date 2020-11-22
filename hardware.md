@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware
-permalink: /hardware.html
+permalink: /hardware
 sequence: 2
 
 three_d: true
